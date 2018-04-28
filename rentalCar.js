@@ -1,5 +1,5 @@
 /*Assignment-thon Version 1.0 (30 minutes)
-
+/*Looks good!
 Javascript object for a car dealership
 
 3 car categories: sedan, suv, sports
